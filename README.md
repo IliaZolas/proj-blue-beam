@@ -1,0 +1,1 @@
+# Download repo, run bundle install and then rails serve to launch a local instance of this app
